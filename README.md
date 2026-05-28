@@ -20,6 +20,8 @@ HTTP security header assessment
 
 OWASP Top 10 mapping
 
+
+
 Project Objectives
 
 Capture and inspect HTTP traffic using Burp Suite
@@ -37,6 +39,8 @@ Evaluate HTTP security headers
 Validate JWT signature verification behavior
 
 Document findings aligned with OWASP Top 10
+
+
 
 Tools & Technologies Used
 
