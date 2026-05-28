@@ -13,6 +13,7 @@ Access control validation
 IDOR testing
 HTTP security header assessment
 OWASP Top 10 mapping
+
 Project Objectives
 Capture and inspect HTTP traffic using Burp Suite
 Analyze authentication requests and JWT handling
@@ -22,6 +23,7 @@ Perform IDOR (Insecure Direct Object Reference) testing
 Evaluate HTTP security headers
 Validate JWT signature verification behavior
 Document findings aligned with OWASP Top 10
+
 Tools & Technologies Used
 OWASP Juice Shop
 Burp Suite Community Edition
